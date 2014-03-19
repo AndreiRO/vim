@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/etc/modprobe.d'
+let g:netrw_dirhist_2='/home/andrei/Developement/javascript/star-defence/backend'
+let g:netrw_dirhist_3='/home/andrei/Developement/javascript/star-defence/scripts'
+let g:netrw_dirhist_4='/home/andrei/Developement/javascript/star-defence/backend'
+let g:netrw_dirhist_5='/home/andrei/Developement/javascript/star-defence/scripts'
+let g:netrw_dirhist_6='/home/andrei/Developement/javascript/star-defence/backend'
+let g:netrw_dirhist_7='/home/andrei/Developement/javascript/star-defence/scripts'
