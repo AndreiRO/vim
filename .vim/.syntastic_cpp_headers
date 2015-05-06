@@ -1,0 +1,10 @@
+-I/usr/include/
+-I/usr/include/qt4
+-I/usr/include/qt4/QtCore
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtXml
+-I/usr/include/qt4/QtXmlPatterns
+-I/usr/include/qt4/QtSql
+-I.
+-I..
+-I/home/andrei/Development/mixxx/src/proto
